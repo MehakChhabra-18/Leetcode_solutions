@@ -1,42 +1,42 @@
 class Solution {
     public String decodeString(String s) {
-
-        Stack<Integer> countStack = new Stack<>();
-        Stack<StringBuilder> strStack = new Stack<>();
-
-        StringBuilder curr = new StringBuilder();
+        Stack<String> str = new Stack<>();
+        Stack<Integer> number = new Stack<>();
+       
+        
         int num = 0;
-
-        for (char ch : s.toCharArray()) {
-
-            if (Character.isDigit(ch)) {
-                num = num * 10 + (ch - '0');
-            }
-
-            else if (ch == '[') {
-                countStack.push(num);
-                strStack.push(curr);
-
+        for (char c : s.toCharArray()) {
+            if (Character.isDigit(c)) {
+                num = num * 10 + (c - '0');
+            } else if (c == '[') {
+                number.push(num);
                 num = 0;
-                curr = new StringBuilder();
-            }
-
-            else if (ch == ']') {
-                int repeat = countStack.pop();
-                StringBuilder prev = strStack.pop();
-
-                for (int i = 0; i < repeat; i++) {
-                    prev.append(curr);
+                str.push("[");
+               
+            } else if (Character.isLetter(c)) {
+                str.push(c + "");
+            } else {
+                StringBuilder temp = new StringBuilder();
+                while (!str.isEmpty() && !str.peek().equals("[")) {
+                    temp.insert(0,str.pop());
                 }
-
-                curr = prev;
-            }
-
-            else {
-                curr.append(ch);
+                str.pop();
+                int val = number.pop();
+               StringBuilder ans = new StringBuilder();
+                for (int i = 0; i < val; i++) {
+                    ans.append(temp);
+                }
+                for (char ch : ans.toString().toCharArray()) {
+                    str.push(ch + "");
+                }
             }
         }
 
-        return curr.toString();
+        StringBuilder finl = new StringBuilder();
+        while (!str.isEmpty()) {
+            finl.insert(0, str.pop());
+        }
+        return finl.toString();
+
     }
 }
