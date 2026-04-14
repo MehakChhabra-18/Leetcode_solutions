@@ -1,17 +1,13 @@
-//Merge sort 
-
 class Solution {
     public static void divide(int[] nums,int start,int end)
     {
-        if(start>=end)
-        {
-            return;
-        }
+        if(start>=end) return;
         int mid=(start+end)/2;
         divide(nums,start,mid);
         divide(nums,mid+1,end);
         conquer(nums,start,mid,end);
     }
+
     public static void conquer(int[] nums,int start,int mid,int end)
     {
         int[] merged=new int[end-start+1];
@@ -28,6 +24,7 @@ class Solution {
                 merged[k++]=nums[j++];
             }
         }
+
         while(i<=mid)
         {
             merged[k++]=nums[i++];
@@ -40,11 +37,10 @@ class Solution {
         {
             nums[j]=merged[i];
         }
-
     }
-    
     public int[] sortArray(int[] nums) {
-       divide(nums,0,nums.length-1);
-       return nums;
+        int n=nums.length;
+        divide(nums,0,n-1);
+        return nums;
     }
 }
