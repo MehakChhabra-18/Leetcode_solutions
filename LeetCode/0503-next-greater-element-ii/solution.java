@@ -6,6 +6,7 @@ class Solution {
         {
             st.push(nums[i]);
         }
+
         int[] res=new int[n];
         for(int i=n-1;i>=0;i--)
         {
