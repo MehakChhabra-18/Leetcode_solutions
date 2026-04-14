@@ -1,24 +1,25 @@
 class Solution {
-    public static void solve(int n,int open,int close,String str,List<String> result)
+    public static void generate(int n,int open,int close,String ans,List<String> res)
     {
-        if(str.length()==2*n)
+        if(ans.length()==2*n)
         {
-            result.add(str);
-            return ;
+            res.add(ans);
+            return;
         }
+
         if(open<n)
         {
-            solve(n,open+1,close,str+"(",result);
+            generate(n,open+1,close,ans+"(",res);
         }
         if(close<open)
         {
-            solve(n,open,close+1,str+")",result);
+            generate(n,open,close+1,ans+")",res);
         }
     }
-     
     public List<String> generateParenthesis(int n) {
-        List<String> result=new ArrayList<>();
-        solve(n,0,0,"",result);
-        return result;
+        List<String> res=new ArrayList<>();
+        generate(n,0,0,"",res);
+        return res;
+        
     }
 }
