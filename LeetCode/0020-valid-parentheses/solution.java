@@ -1,29 +1,29 @@
 class Solution {
     public boolean isValid(String s) {
-    Stack<Character> st=new Stack<>();
-    for(char c:s.toCharArray())
-    {
-        if(c=='(' || c=='{'||c=='[')
+        Stack<Character> st=new Stack<>();
+        for(int i=0;i<s.length();i++)
         {
-            st.push(c);
-        }
-        else
-        {
-            if(st.isEmpty()) return false;
-            char top=st.peek();
-            if((c==']' && top=='[')||(c=='}' && top=='{')||(c==')' && top=='('))
+            char ch=s.charAt(i);
+            if(ch=='('||ch=='{'||ch=='[')
             {
-                st.pop();
+                st.push(ch);
             }
             else
             {
-                st.push(c);
+                if(st.isEmpty()) return false;
+                char top=st.peek();
+                if((ch==')' && top=='(')||(ch=='}' && top=='{')||(ch==']' && top=='['))
+                {
+                    st.pop();
+                }
+                else
+                {
+                    st.push(ch);
+                }
             }
         }
-    }
-
-    if(st.isEmpty()) return true;
-    return false;
-
+        
+        if(!st.isEmpty()) return false;
+        return true;
     }
 }
