@@ -10,31 +10,31 @@ class MyStack {
     }
     
     public int pop() {
-     for(int i=1;i<=q.size()-1;i++)
-     {
-        q.add(q.remove());
-     }
-     int val=q.remove();
-     return val;
         
+        for(int i=1;i<=q.size()-1;i++)
+        {
+            q.add(q.remove());
+        }
+        
+        int val=q.remove();
+        return val;
         
     }
     
     public int top() {
-       
-         for(int i=1;i<=q.size()-1;i++)
-     {
-        q.add(q.remove());
-     }
-     int val=q.peek();
-     q.add(q.remove());
-     return val;
         
+        for(int i=1;i<=q.size()-1;i++)
+        {
+            q.add(q.remove());
+        }
+        int val=q.peek();
+        q.add(q.remove());
+        return val;
     }
     
     public boolean empty() {
-        if(q.size()!=0) return false;
-        return true;
+        if(q.size()==0) return true;
+        return false;
     }
 }
 
