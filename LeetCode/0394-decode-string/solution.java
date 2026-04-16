@@ -3,53 +3,37 @@ class Solution {
         Stack<String> str=new Stack<>();
         Stack<Integer> number=new Stack<>();
         int num=0;
-        for(char c: s.toCharArray())
+        String curr="";
+        for(char c:s.toCharArray())
         {
-            
             if(Character.isDigit(c))
             {
                 num=num*10+(c-'0');
             }
             else if(c=='[')
             {
+                str.push(curr);
                 number.push(num);
                 num=0;
-                str.push("[");
+                curr="";
             }
-            else if(Character.isLetter(c))
+            else if(c==']')
             {
-                str.push(c+"");
+                String temp="";
+                String prev=str.pop();
+                 int val=number.pop();
+                 for(int i=0;i<val;i++)
+                 {
+                    temp+=curr;
+                 }
+                 curr=prev+temp;
             }
-            else 
+            else
             {
-                StringBuilder ans=new StringBuilder();
-                while(!str.isEmpty() && !str.peek().equals("["))
-                {
-                     ans.insert(0,str.pop());
-                }
-                str.pop();
-
-                StringBuilder temp=new StringBuilder();
-                int val=number.pop();
-                for(int i=0;i<val;i++)
-                {
-                    temp.append(ans);
-                }
-
-                for(char ch:temp.toString().toCharArray())
-                {
-                    str.push(ch+"");
-                }
+                curr+=c;
             }
-           
         }
-
-        StringBuilder finalAns=new StringBuilder();
-        while(!str.isEmpty())
-        {
-            finalAns.insert(0,str.pop());
-        }
-        return finalAns.toString();
+        return curr;
         
     }
 }
