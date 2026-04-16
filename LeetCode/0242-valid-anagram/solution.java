@@ -1,10 +1,9 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         HashMap<Character,Integer> map=new HashMap<>();
-        if(s.length()!=t.length()) return false;
-        for(char ch:s.toCharArray())
+        for(char c: s.toCharArray())
         {
-            map.put(ch,map.getOrDefault(ch,0)+1);
+            map.put(c,map.getOrDefault(c,0)+1);
         }
 
         for(char ch:t.toCharArray())
@@ -19,7 +18,6 @@ class Solution {
                 map.remove(ch);
             }
         }
-
         return map.size()==0;
     }
 }
