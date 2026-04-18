@@ -14,8 +14,7 @@ class Solution {
             if(st.isEmpty()) ans[i]=0;
             else ans[i]=st.peek()-i;
             st.push(i);
-        }
+        }   
         return ans;
-        
     }
 }
