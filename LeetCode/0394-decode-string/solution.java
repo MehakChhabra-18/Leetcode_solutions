@@ -1,7 +1,7 @@
 class Solution {
     public String decodeString(String s) {
-        Stack<String> str=new Stack<>();
         Stack<Integer> number=new Stack<>();
+        Stack<String> str=new Stack<>();
         int num=0;
         String curr="";
         for(char c:s.toCharArray())
@@ -12,21 +12,21 @@ class Solution {
             }
             else if(c=='[')
             {
-                str.push(curr);
                 number.push(num);
                 num=0;
+                str.push(curr);
                 curr="";
             }
             else if(c==']')
             {
                 String temp="";
                 String prev=str.pop();
-                 int val=number.pop();
-                 for(int i=0;i<val;i++)
-                 {
+                int val=number.pop();
+                for(int i=0;i<val;i++)
+                {
                     temp+=curr;
-                 }
-                 curr=prev+temp;
+                }
+                curr=prev+temp;
             }
             else
             {
@@ -34,6 +34,5 @@ class Solution {
             }
         }
         return curr;
-        
     }
 }
