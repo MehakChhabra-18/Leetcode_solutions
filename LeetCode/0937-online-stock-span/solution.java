@@ -15,7 +15,6 @@ class StockSpanner {
         prices.push(price);
         spans.push(span);
         return span;
-        
     }
 }
 
