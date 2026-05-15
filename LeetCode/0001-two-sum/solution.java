@@ -2,18 +2,16 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
        HashMap<Integer,Integer> map=new HashMap<>();
        int n=nums.length;
-       int[] res=new int[2];
-       int k=0;
        for(int i=0;i<n;i++)
        {
-           int diff=target-nums[i];
-           if(map.containsKey(diff))
+           int ans=target-nums[i];
+           if(map.containsKey(ans))
            {
-               res[k++]=map.get(diff);
-               res[k]=i;
+               return new int[]{map.get(ans),i};
            }
            map.put(nums[i],i);
        }
-       return res;
+
+       return new int[]{};
     }
 }
