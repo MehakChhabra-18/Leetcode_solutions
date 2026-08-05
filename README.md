@@ -6,6 +6,7 @@ All leetcode problems at one place
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3151-special-array-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3151-special-array-i) |
 ## Prefix Sum
@@ -32,4 +33,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
