@@ -44,6 +44,7 @@ All leetcode problems at one place
 ## Math
 |  |
 | ------- |
+| [1103-distribute-candies-to-people](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1103-distribute-candies-to-people) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -53,5 +54,6 @@ All leetcode problems at one place
 ## Simulation
 |  |
 | ------- |
+| [1103-distribute-candies-to-people](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1103-distribute-candies-to-people) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
