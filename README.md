@@ -44,9 +44,14 @@ All leetcode problems at one place
 ## Math
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
