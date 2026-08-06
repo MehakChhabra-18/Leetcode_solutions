@@ -41,4 +41,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
