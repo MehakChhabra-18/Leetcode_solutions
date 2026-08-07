@@ -6,6 +6,7 @@ All leetcode problems at one place
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -63,10 +64,15 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
