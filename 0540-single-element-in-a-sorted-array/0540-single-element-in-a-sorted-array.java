@@ -1,22 +1,23 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for(int x:nums)
-        {
-            map.put(x,map.getOrDefault(x,0)+1);
-        }
 
-        int ans=0;
-        for(int x:map.keySet())
-        {
-            if(map.get(x)==1) 
-            {
-                ans=x;
-                break;
+        int low = 0;
+        int high = nums.length - 1;
+
+        while (low < high) {
+
+            int mid = low + (high - low) / 2;
+            
+            if (mid % 2 == 1)
+                mid--;
+
+            if (nums[mid] == nums[mid + 1]) {
+                low = mid + 2;
+            } else {
+                high = mid;
             }
         }
 
-        return ans;
-        
+        return nums[low];
     }
 }
