@@ -8,6 +8,7 @@ All leetcode problems at one place
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0198-house-robber) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -75,4 +76,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
