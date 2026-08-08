@@ -80,4 +80,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
