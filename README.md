@@ -8,6 +8,7 @@ All leetcode problems at one place
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0198-house-robber) |
+| [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -25,6 +26,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -33,6 +35,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -79,9 +82,26 @@ All leetcode problems at one place
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
