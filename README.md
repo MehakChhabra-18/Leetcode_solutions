@@ -55,6 +55,7 @@ All leetcode problems at one place
 | ------- |
 | [0062-unique-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [1103-distribute-candies-to-people](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1103-distribute-candies-to-people) |
+| [1510-stone-game-iv](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -74,6 +75,7 @@ All leetcode problems at one place
 | [0063-unique-paths-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1510-stone-game-iv](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -107,4 +109,24 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
