@@ -14,6 +14,7 @@ All leetcode problems at one place
 | [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3151-special-array-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3151-special-array-i) |
 ## Prefix Sum
 |  |
@@ -50,6 +51,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +131,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
