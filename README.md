@@ -14,6 +14,7 @@ All leetcode problems at one place
 | [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3151-special-array-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3151-special-array-i) |
 ## Prefix Sum
@@ -134,5 +135,10 @@ All leetcode problems at one place
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
