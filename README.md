@@ -72,6 +72,7 @@ All leetcode problems at one place
 | [1103-distribute-candies-to-people](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1103-distribute-candies-to-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [3174-clear-digits](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +145,12 @@ All leetcode problems at one place
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3174-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
