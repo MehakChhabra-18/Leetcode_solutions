@@ -143,15 +143,18 @@ All leetcode problems at one place
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3842-toggle-light-bulbs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3842-toggle-light-bulbs) |
 ## Sliding Window
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3174-clear-digits) |
 ## Stack
 |  |
