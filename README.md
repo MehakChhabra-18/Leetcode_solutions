@@ -13,6 +13,7 @@ All leetcode problems at one place
 | [0746-min-cost-climbing-stairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -32,10 +33,12 @@ All leetcode problems at one place
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -54,6 +57,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3842-toggle-light-bulbs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3842-toggle-light-bulbs) |
 ## Math
@@ -154,10 +158,15 @@ All leetcode problems at one place
 ## String
 |  |
 | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3174-clear-digits) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
