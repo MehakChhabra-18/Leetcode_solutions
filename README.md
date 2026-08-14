@@ -19,6 +19,7 @@ All leetcode problems at one place
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3151-special-array-i](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3151-special-array-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3842-toggle-light-bulbs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3842-toggle-light-bulbs) |
 ## Prefix Sum
 |  |
