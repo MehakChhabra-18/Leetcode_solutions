@@ -7,6 +7,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -100,6 +101,7 @@ All leetcode problems at one place
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
