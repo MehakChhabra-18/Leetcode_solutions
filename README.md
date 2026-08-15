@@ -161,6 +161,7 @@ All leetcode problems at one place
 ## String
 |  |
 | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3174-clear-digits) |
@@ -175,11 +176,13 @@ All leetcode problems at one place
 ## Tree
 |  |
 | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -190,6 +193,7 @@ All leetcode problems at one place
 ## Binary Tree
 |  |
 | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
