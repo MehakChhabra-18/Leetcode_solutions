@@ -176,16 +176,20 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
