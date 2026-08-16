@@ -10,9 +10,8 @@ class Solution {
         for(int task:map.values())
         {
             if(task==1) return -1;
-            if(task%3==0) rounds+=task/3;
-            if(task%3==1) rounds+=task/3-1+2;
-            if(task%3==2) rounds+=task/3+1;
+            rounds+=task/3;
+            if(task%3!=0) rounds++;
         }
 
         return rounds;
