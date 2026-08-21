@@ -23,4 +23,20 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+## Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
