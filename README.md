@@ -6,6 +6,7 @@ All leetcode problems at one place
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0134-gas-station) |
 | [2762-continuous-subarrays](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2762-continuous-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -32,4 +33,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2762-continuous-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
