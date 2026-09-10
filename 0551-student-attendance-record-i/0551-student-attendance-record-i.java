@@ -1,0 +1,25 @@
+class Solution {
+    public boolean checkRecord(String s) {
+        int absentCount = 0;
+        int lateCount = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            if (s.charAt(i) == 'A') {
+                absentCount++;
+            }
+
+            if (s.charAt(i) == 'L') {
+                lateCount++;
+            } else {
+                lateCount = 0;
+            }
+
+            if (absentCount >= 2 || lateCount >= 3) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+}
