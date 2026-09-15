@@ -21,8 +21,9 @@ class Solution {
             } else {
                 sum += Math.abs(map.get(c) - map.get(mirror));
                 map.put(mirror, 0);
+                map.put(c, 0);
             }
-            map.put(c, 0);
+           
         }
 
         // int sum=0;
