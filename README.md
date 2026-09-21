@@ -11,4 +11,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [1410-html-entity-parser](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1410-html-entity-parser) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
