@@ -1,13 +1,40 @@
 class Solution {
     public String entityParser(String text) {
-        text = text.replace("&quot;", "\"");
-        text = text.replace("&apos;", "'");
-        text = text.replace("&gt;", ">");
-        text = text.replace("&lt;", "<");
-        text = text.replace("&frasl;", "/");
-        text = text.replace("&amp;", "&");
+        HashMap<String, String> map = new HashMap<>();
+        map.put("&quot;", "\"");
+        map.put("&apos;", "'");
+        map.put("&amp;", "&");
+        map.put("&gt;", ">");
+        map.put("&lt;", "<");
+        map.put("&frasl;", "/");
 
-        return text;
-        
+        StringBuilder ans=new StringBuilder();
+        int i = 0;
+        while (i < text.length()) {
+            if (text.charAt(i) == '&') {
+                boolean found = false;
+                for (String entity : map.keySet()) {
+                    if (text.startsWith(entity, i)) {
+                        ans.append(map.get(entity));
+                        i += entity.length();
+                        found = true;
+                        break;
+                    }
+                }
+
+                if (!found) {
+                        ans.append("&");
+                        i++;
+                    }
+            }
+
+            else {
+                ans.append(text.charAt(i));
+                i++;
+            }
+        }
+
+        return ans.toString();
+
     }
 }
