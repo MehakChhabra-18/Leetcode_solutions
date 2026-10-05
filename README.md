@@ -28,4 +28,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
