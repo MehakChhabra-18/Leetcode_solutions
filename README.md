@@ -31,9 +31,11 @@ All leetcode problems at one place
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
