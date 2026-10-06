@@ -38,4 +38,16 @@ All leetcode problems at one place
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0704-binary-search) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
