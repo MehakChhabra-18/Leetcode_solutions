@@ -20,6 +20,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0721-accounts-merge](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0721-accounts-merge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ All leetcode problems at one place
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0721-accounts-merge) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +58,24 @@ All leetcode problems at one place
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0721-accounts-merge) |
+## Depth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0721-accounts-merge) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0721-accounts-merge) |
+## Union-Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0721-accounts-merge) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
