@@ -16,6 +16,7 @@ All leetcode problems at one place
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
@@ -31,4 +32,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
