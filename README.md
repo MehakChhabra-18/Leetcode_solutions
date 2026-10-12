@@ -34,5 +34,10 @@ All leetcode problems at one place
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0134-gas-station) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+## Array
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
