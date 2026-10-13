@@ -40,6 +40,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0134-gas-station) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
 |  |
@@ -53,4 +54,32 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
