@@ -42,14 +42,17 @@ All leetcode problems at one place
 | [0134-gas-station](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0134-gas-station) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2354-number-of-excellent-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2354-number-of-excellent-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2354-number-of-excellent-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2354-number-of-excellent-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2354-number-of-excellent-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2354-number-of-excellent-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -58,6 +61,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2354-number-of-excellent-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2354-number-of-excellent-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
