@@ -10,11 +10,13 @@ All leetcode problems at one place
 | [0100-same-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -26,6 +28,7 @@ All leetcode problems at one place
 | [0100-same-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -140,4 +143,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
