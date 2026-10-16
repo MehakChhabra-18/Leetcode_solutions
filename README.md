@@ -45,6 +45,7 @@ All leetcode problems at one place
 | [0134-gas-station](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0134-gas-station) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [1920-build-array-from-permutation](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2354-number-of-excellent-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2354-number-of-excellent-pairs) |
 ## Hash Table
@@ -133,4 +134,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
