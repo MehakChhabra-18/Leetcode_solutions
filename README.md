@@ -48,6 +48,7 @@ All leetcode problems at one place
 | [1920-build-array-from-permutation](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2354-number-of-excellent-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2354-number-of-excellent-pairs) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Design
 |  |
 | ------- |
