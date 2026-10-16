@@ -11,12 +11,14 @@ All leetcode problems at one place
 | [0102-binary-tree-level-order-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +31,7 @@ All leetcode problems at one place
 | [0102-binary-tree-level-order-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -41,6 +44,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0134-gas-station) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 ## Array
 |  |
@@ -77,6 +81,7 @@ All leetcode problems at one place
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -147,4 +152,5 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
