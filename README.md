@@ -125,4 +125,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
