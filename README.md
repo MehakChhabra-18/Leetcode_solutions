@@ -9,10 +9,12 @@ All leetcode problems at one place
 | ------- |
 | [0100-same-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -23,6 +25,7 @@ All leetcode problems at one place
 | ------- |
 | [0100-same-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -114,4 +117,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
