@@ -55,4 +55,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0072-edit-distance) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
