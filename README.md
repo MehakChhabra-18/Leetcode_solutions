@@ -23,6 +23,7 @@ All leetcode problems at one place
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
@@ -66,6 +67,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +76,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
