@@ -84,4 +84,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 <!---LeetCode Topics End-->
