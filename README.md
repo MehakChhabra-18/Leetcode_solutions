@@ -6,6 +6,7 @@ All leetcode problems at one place
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -14,6 +15,7 @@ All leetcode problems at one place
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Array
 |  |
@@ -67,6 +69,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
@@ -88,4 +91,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
