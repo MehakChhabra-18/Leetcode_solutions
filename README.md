@@ -61,6 +61,7 @@ All leetcode problems at one place
 | ------- |
 | [0072-edit-distance](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +100,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 <!---LeetCode Topics End-->
