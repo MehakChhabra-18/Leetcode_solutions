@@ -76,6 +76,7 @@ All leetcode problems at one place
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0146-lru-cache) |
+| [0382-linked-list-random-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +96,7 @@ All leetcode problems at one place
 ## Math
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 ## Stack
 |  |
@@ -114,4 +116,12 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
