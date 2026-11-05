@@ -22,6 +22,7 @@ All leetcode problems at one place
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
@@ -107,6 +108,7 @@ All leetcode problems at one place
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Breadth-First Search
 |  |
