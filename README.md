@@ -13,6 +13,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 ## Binary Tree
 |  |
 | ------- |
@@ -24,6 +25,7 @@ All leetcode problems at one place
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
 |  |
@@ -39,11 +41,13 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -111,6 +115,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Breadth-First Search
 |  |
@@ -124,4 +129,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
