@@ -18,6 +18,7 @@ All leetcode problems at one place
 | [0099-recover-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Binary Tree
 |  |
 | ------- |
@@ -36,6 +37,7 @@ All leetcode problems at one place
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -57,6 +59,7 @@ All leetcode problems at one place
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,6 +136,7 @@ All leetcode problems at one place
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -158,4 +162,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 <!---LeetCode Topics End-->
