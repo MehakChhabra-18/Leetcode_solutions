@@ -37,6 +37,7 @@ All leetcode problems at one place
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -47,6 +48,7 @@ All leetcode problems at one place
 | [0146-lru-cache](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@ All leetcode problems at one place
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +69,7 @@ All leetcode problems at one place
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -87,6 +91,7 @@ All leetcode problems at one place
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
 ## Dynamic Programming
 |  |
 | ------- |
