@@ -19,6 +19,7 @@ All leetcode problems at one place
 | [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -43,6 +44,7 @@ All leetcode problems at one place
 | [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Array
 |  |
@@ -162,6 +164,7 @@ All leetcode problems at one place
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -178,6 +181,7 @@ All leetcode problems at one place
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Reservoir Sampling
 |  |
