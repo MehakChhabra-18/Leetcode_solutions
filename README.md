@@ -19,6 +19,7 @@ All leetcode problems at one place
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -47,6 +48,7 @@ All leetcode problems at one place
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -115,6 +117,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0072-edit-distance) |
+| [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -171,6 +174,7 @@ All leetcode problems at one place
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -219,4 +223,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
