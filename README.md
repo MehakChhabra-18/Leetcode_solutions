@@ -13,6 +13,7 @@ All leetcode problems at one place
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -31,6 +32,7 @@ All leetcode problems at one place
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Array
 |  |
@@ -139,6 +141,7 @@ All leetcode problems at one place
 | [0094-binary-tree-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +150,7 @@ All leetcode problems at one place
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
