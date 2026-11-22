@@ -14,6 +14,7 @@ All leetcode problems at one place
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -44,6 +45,7 @@ All leetcode problems at one place
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -171,6 +173,7 @@ All leetcode problems at one place
 | [0094-binary-tree-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -229,5 +232,6 @@ All leetcode problems at one place
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
