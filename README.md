@@ -33,6 +33,7 @@ All leetcode problems at one place
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -48,6 +49,7 @@ All leetcode problems at one place
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -81,6 +83,7 @@ All leetcode problems at one place
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -220,6 +223,7 @@ All leetcode problems at one place
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
