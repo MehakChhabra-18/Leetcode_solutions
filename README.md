@@ -17,6 +17,7 @@ All leetcode problems at one place
 | [0113-path-sum-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -50,6 +51,7 @@ All leetcode problems at one place
 | [0113-path-sum-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -135,6 +137,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -180,6 +183,7 @@ All leetcode problems at one place
 | [0113-path-sum-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -248,4 +252,8 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
