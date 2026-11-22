@@ -7,6 +7,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -43,6 +44,7 @@ All leetcode problems at one place
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -61,6 +63,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -171,6 +174,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
 |  |
@@ -200,6 +204,7 @@ All leetcode problems at one place
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0382-linked-list-random-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 ## Stack
