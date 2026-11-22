@@ -7,6 +7,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
@@ -44,6 +45,7 @@ All leetcode problems at one place
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
@@ -63,6 +65,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
@@ -174,6 +177,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
@@ -291,6 +295,7 @@ All leetcode problems at one place
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
