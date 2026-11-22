@@ -13,29 +13,29 @@
  *     }
  * }
  */
-
 class Solution {
-    ArrayList<TreeNode> list = new ArrayList<>();
-    public void inorder(TreeNode root) {
-        if (root == null)
-            return;
-
-        inorder(root.left);
-        list.add(root);
-        inorder(root.right);
-    }
     public void recoverTree(TreeNode root) {
-
-        inorder(root);
-        ArrayList<Integer> sorted = new ArrayList<>();
+        List<TreeNode> list=new ArrayList<>();
+        inorder(root,list);
+        List<Integer> sorted = new ArrayList<>();
         for (TreeNode node : list) {
             sorted.add(node.val);
         }
         Collections.sort(sorted);
-        for (int i = 0; i < list.size(); i++) {
-            if (list.get(i).val != sorted.get(i)) {
-                list.get(i).val = sorted.get(i);
+        for(int i=0;i<list.size();i++)
+        {
+            if(list.get(i).val!=sorted.get(i))
+            {
+                list.get(i).val=sorted.get(i);
             }
         }
+
+    }
+    public void inorder(TreeNode root,List<TreeNode> list)
+    {
+        if(root==null) return;
+        inorder(root.left,list);
+        list.add(root);
+        inorder(root.right,list);
     }
 }
