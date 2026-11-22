@@ -41,6 +41,7 @@ All leetcode problems at one place
 | [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -60,6 +61,7 @@ All leetcode problems at one place
 | [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Binary Tree
 |  |
@@ -99,6 +101,7 @@ All leetcode problems at one place
 | [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
@@ -133,6 +136,7 @@ All leetcode problems at one place
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -244,6 +248,7 @@ All leetcode problems at one place
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -291,6 +296,7 @@ All leetcode problems at one place
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Backtracking
 |  |
