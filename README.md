@@ -71,6 +71,7 @@ All leetcode problems at one place
 | [0669-trim-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Binary Tree
@@ -143,6 +144,7 @@ All leetcode problems at one place
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -392,4 +394,5 @@ All leetcode problems at one place
 | [0498-diagonal-traverse](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
