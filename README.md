@@ -144,6 +144,7 @@ All leetcode problems at one place
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0994-rotting-oranges](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
@@ -322,6 +323,7 @@ All leetcode problems at one place
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -394,5 +396,6 @@ All leetcode problems at one place
 | [0498-diagonal-traverse](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
