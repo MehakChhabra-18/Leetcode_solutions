@@ -63,6 +63,7 @@ All leetcode problems at one place
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -134,6 +135,7 @@ All leetcode problems at one place
 | [0240-search-a-2d-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
@@ -175,6 +177,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
@@ -184,6 +187,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
@@ -384,6 +388,7 @@ All leetcode problems at one place
 | [0074-search-a-2d-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
