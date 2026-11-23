@@ -135,6 +135,7 @@ All leetcode problems at one place
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [0874-walking-robot-simulation](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
@@ -150,6 +151,7 @@ All leetcode problems at one place
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [0874-walking-robot-simulation](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
@@ -338,6 +340,7 @@ All leetcode problems at one place
 | [0498-diagonal-traverse](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [0874-walking-robot-simulation](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
