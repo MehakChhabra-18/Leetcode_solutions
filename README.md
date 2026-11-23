@@ -120,6 +120,7 @@ All leetcode problems at one place
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -322,6 +323,7 @@ All leetcode problems at one place
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
@@ -350,4 +352,8 @@ All leetcode problems at one place
 | [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0687-longest-univalue-path](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0687-longest-univalue-path) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0979-distribute-coins-in-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
