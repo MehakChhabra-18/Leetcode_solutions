@@ -120,6 +120,7 @@ All leetcode problems at one place
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -237,6 +238,7 @@ All leetcode problems at one place
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0382-linked-list-random-node](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -359,6 +361,7 @@ All leetcode problems at one place
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
