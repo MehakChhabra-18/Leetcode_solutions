@@ -138,6 +138,7 @@ All leetcode problems at one place
 | [0347-top-k-frequent-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
@@ -228,6 +229,7 @@ All leetcode problems at one place
 | [0095-unique-binary-search-trees-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0542-01-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -321,6 +323,7 @@ All leetcode problems at one place
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -394,6 +397,7 @@ All leetcode problems at one place
 | [0289-game-of-life](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0994-rotting-oranges) |
