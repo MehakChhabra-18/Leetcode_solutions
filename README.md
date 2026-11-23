@@ -129,6 +129,7 @@ All leetcode problems at one place
 | [0059-spiral-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -214,6 +215,7 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0606-construct-string-from-binary-tree) |
@@ -273,6 +275,7 @@ All leetcode problems at one place
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
@@ -366,6 +369,7 @@ All leetcode problems at one place
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
@@ -393,6 +397,7 @@ All leetcode problems at one place
 | [0059-spiral-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
