@@ -53,6 +53,7 @@ All leetcode problems at one place
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0095-unique-binary-search-trees-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
@@ -124,6 +125,7 @@ All leetcode problems at one place
 | [0054-spiral-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -376,6 +378,7 @@ All leetcode problems at one place
 | [0054-spiral-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0566-reshape-the-matrix) |
