@@ -152,6 +152,7 @@ All leetcode problems at one place
 | [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -411,6 +412,7 @@ All leetcode problems at one place
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
@@ -420,4 +422,5 @@ All leetcode problems at one place
 | ------- |
 | [0841-keys-and-rooms](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
