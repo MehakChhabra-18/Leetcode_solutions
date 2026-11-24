@@ -305,6 +305,7 @@ All leetcode problems at one place
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Two Pointers
 |  |
@@ -331,6 +332,7 @@ All leetcode problems at one place
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Reservoir Sampling
@@ -407,4 +409,12 @@ All leetcode problems at one place
 | [0867-transpose-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
