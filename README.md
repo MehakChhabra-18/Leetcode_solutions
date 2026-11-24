@@ -309,6 +309,7 @@ All leetcode problems at one place
 | [1382-balance-a-binary-search-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Two Pointers
 |  |
@@ -338,6 +339,7 @@ All leetcode problems at one place
 | [0994-rotting-oranges](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Reservoir Sampling
@@ -426,6 +428,7 @@ All leetcode problems at one place
 | [0785-is-graph-bipartite](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Coloring
 |  |
@@ -435,4 +438,16 @@ All leetcode problems at one place
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
