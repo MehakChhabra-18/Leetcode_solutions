@@ -219,6 +219,7 @@ All leetcode problems at one place
 | [0079-word-search](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -232,6 +233,7 @@ All leetcode problems at one place
 | [0095-unique-binary-search-trees-ii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/0542-01-matrix) |
 ## Linked List
 |  |
