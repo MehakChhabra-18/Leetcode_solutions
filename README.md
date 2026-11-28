@@ -226,6 +226,7 @@ All leetcode problems at one place
 | [2053-kth-distinct-string-in-an-array](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2512-reward-top-k-students](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/2512-reward-top-k-students) |
+| [3163-string-compression-iii](https://github.com/MehakChhabra-18/Leetcode_solutions/tree/master/3163-string-compression-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
